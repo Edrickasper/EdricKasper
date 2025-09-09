@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I’m Ghost<br><br>💻 Front-end Developer | College Student | Curious Builder<br><br>🚀 Currently working on: Expense Tracker & my personal portfolio<br><br>⚡ Tech stack: Angular, TypeScript, Firebase, TailwindCSS<br><br>🌱 Learning: Node.js, Backend fundamentals & polishing UI/UX<br><br>🎯 Goal: Build tools that are practical, simple, and actually useful<br><br>🎮 Outside coding: Anime fan (Steins;Gate, 86, Death Parade) & gaming (CoD Mobile)<br><br>☕ Motto: Code with flow, not pressure
+👋 Hey, I’m Edric Kasper<br>💻 Front-end Developer | College Student | Curious Builder<br>🚀 Currently working on: Expense Tracker & my personal portfolio<br>⚡ Tech stack: Angular, TypeScript, Firebase, TailwindCSS<br>🌱 Learning: Node.js, Backend fundamentals & polishing UI/UX<br>🎯 Goal: Build tools that are practical, simple, and actually useful<br>☕ Motto: Code with flow, not pressure
 
 
 ## 🌐 Socials:
