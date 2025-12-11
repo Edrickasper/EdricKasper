@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I’m Edric Kasper<br>💻 Front-end Developer | College Student | Curious Builder<br>🚀 Currently working on: Expense Tracker & my personal portfolio<br>⚡ Tech stack: Angular, TypeScript, Firebase, TailwindCSS<br>🌱 Learning: Node.js, Backend fundamentals & polishing UI/UX<br>🎯 Goal: Build tools that are practical, simple, and actually useful<br>☕ Motto: Code with flow, not pressure
+👋 Hey, I’m Edric Kasper<br>💻 Front-end Developer | College Student | Curious Builder<br>🚀 Currently working on: Feature finder<br>⚡ Tech stack: Angular, TypeScript, Firebase, TailwindCSS<br>🌱 Learning: Node.js, Backend fundamentals & polishing UI/UX<br>🎯 Goal: Build tools that are practical, simple, and actually useful<br>☕ Motto: Code with flow, not pressure
 
 
 ## 🌐 Socials:
